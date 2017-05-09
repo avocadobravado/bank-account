@@ -1,0 +1,21 @@
+body {
+  background: url("http://clipart-library.com/data_images/37081.png")no-repeat center center fixed;
+}
+
+.container {
+  background: rgba(255, 255, 255, .9);
+  margin-top: 25%;
+  border-radius: 5px;
+}
+
+.input-group {
+  width: 50%;
+}
+
+#results {
+  display: none;
+}
+
+.resultDeposit {
+  font-size: 18px;
+}
